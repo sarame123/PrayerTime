@@ -1,14 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
 import Prayer from './Prayer';
+import { HashRouter } from 'react-router-dom';
 
 
 
 function App() {
   return (
-    <div className="App">
+
+     <HashRouter base="/">
       <Prayer/>
-    </div>
+ </HashRouter>
   );
 }
 
