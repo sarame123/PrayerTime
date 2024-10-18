@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PrayerTime.git/static/css/main.4fc3c0c1.css",
-    "main.js": "/PrayerTime.git/static/js/main.7e23a3ae.js",
-    "static/js/453.a0f81d97.chunk.js": "/PrayerTime.git/static/js/453.a0f81d97.chunk.js",
-    "static/media/bg.jpg": "/PrayerTime.git/static/media/bg.3a97572e19a67d389b4a.jpg",
-    "static/media/islamic-7093978_1280.jpg": "/PrayerTime.git/static/media/islamic-7093978_1280.cd1ee72c0f314a41101e.jpg",
-    "static/media/fajr.png": "/PrayerTime.git/static/media/fajr.6efb441969fcd1de8242.png",
-    "static/media/dhuhr.png": "/PrayerTime.git/static/media/dhuhr.cff86331b380b6905812.png",
-    "static/media/logo.svg": "/PrayerTime.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/PrayerTime.git/index.html",
-    "main.4fc3c0c1.css.map": "/PrayerTime.git/static/css/main.4fc3c0c1.css.map",
-    "main.7e23a3ae.js.map": "/PrayerTime.git/static/js/main.7e23a3ae.js.map",
-    "453.a0f81d97.chunk.js.map": "/PrayerTime.git/static/js/453.a0f81d97.chunk.js.map"
+    "main.css": "/PrayerTime/static/css/main.f984374c.css",
+    "main.js": "/PrayerTime/static/js/main.ab006798.js",
+    "static/js/453.a0f81d97.chunk.js": "/PrayerTime/static/js/453.a0f81d97.chunk.js",
+    "static/media/bg.jpg": "/PrayerTime/static/media/bg.3a97572e19a67d389b4a.jpg",
+    "static/media/islamic-7093978_1280.jpg": "/PrayerTime/static/media/islamic-7093978_1280.cd1ee72c0f314a41101e.jpg",
+    "static/media/fajr.png": "/PrayerTime/static/media/fajr.6efb441969fcd1de8242.png",
+    "static/media/dhuhr.png": "/PrayerTime/static/media/dhuhr.cff86331b380b6905812.png",
+    "static/media/logo.svg": "/PrayerTime/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/PrayerTime/index.html",
+    "main.f984374c.css.map": "/PrayerTime/static/css/main.f984374c.css.map",
+    "main.ab006798.js.map": "/PrayerTime/static/js/main.ab006798.js.map",
+    "453.a0f81d97.chunk.js.map": "/PrayerTime/static/js/453.a0f81d97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fc3c0c1.css",
-    "static/js/main.7e23a3ae.js"
+    "static/css/main.f984374c.css",
+    "static/js/main.ab006798.js"
   ]
 }
